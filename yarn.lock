@@ -981,15 +981,15 @@
     fs-extra "^10.1.0"
     path "^0.12.7"
 
-"@faststore/components@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@faststore/components/-/components-2.2.0.tgz#dc2273372cf5a8b0b5dfe41c5cc224228f242119"
-  integrity sha512-t+MJv8A4X5nZFfIgAHna7bPbJbZGyly73QMcnyd11v4zten/hpqNMN/paOGxKK4yl1XLhy+Y6djx1jiQ2AawTQ==
+"@faststore/components@^2.2.13":
+  version "2.2.13"
+  resolved "https://registry.yarnpkg.com/@faststore/components/-/components-2.2.13.tgz#89036bce612204f7e85b8e6e5295e3fbb1fb6c91"
+  integrity sha512-nqs2aikd57BZjF3bj81BEvyPgpGNZ/9mzpAMOKuVobi+gyeo16TbZKtu0AYZV1o2onOqYhRREiIA7P6/t/qg4A==
 
-"@faststore/core@^2.2.5":
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/@faststore/core/-/core-2.2.5.tgz#c1e4a82bc6c6a9ee7a09952b8c449c1b80e54ce5"
-  integrity sha512-5Z1dGWmRBvbgdC85GDqrUSr4wHFveGkSy2vMeAUKmK00NAqxi99i+zeG7mctq1x+Aaj5bIIGV0CVWY4b4FR1fA==
+"@faststore/core@^2.2.14":
+  version "2.2.14"
+  resolved "https://registry.yarnpkg.com/@faststore/core/-/core-2.2.14.tgz#50fec8e2a81fa0fb89a998c4b7de188151c3c5cc"
+  integrity sha512-SaRYdrfc+YZ/qlBOiNQPW5JnAcpG/TFtEghlXKymMZn8eRvmG+82+rH65EVJBiahhipijVlj6uDSIk/emCE+yw==
   dependencies:
     "@builder.io/partytown" "^0.6.1"
     "@envelop/core" "^1.2.0"
@@ -997,10 +997,10 @@
     "@envelop/parser-cache" "^2.2.0"
     "@envelop/validation-cache" "^2.2.0"
     "@faststore/api" "^2.2.0"
-    "@faststore/components" "^2.2.0"
+    "@faststore/components" "^2.2.13"
     "@faststore/graphql-utils" "^2.2.0"
     "@faststore/sdk" "^2.2.0"
-    "@faststore/ui" "^2.2.0"
+    "@faststore/ui" "^2.2.13"
     "@graphql-codegen/cli" "^3.3.1"
     "@graphql-codegen/typescript" "^3.0.4"
     "@graphql-codegen/typescript-operations" "^3.0.4"
@@ -1057,12 +1057,12 @@
   dependencies:
     idb-keyval "^5.1.3"
 
-"@faststore/ui@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@faststore/ui/-/ui-2.2.0.tgz#92206e4aa0ab19790cc6a0804ac691835e940fad"
-  integrity sha512-7giWhWj2tRG1VHV1lLsWS2HZhriTtdWrHTtj9rERW2ObAi4ohR4l9RNi1/dJVFIVISJxUIIS41r72A1IOGzFdA==
+"@faststore/ui@^2.2.13":
+  version "2.2.13"
+  resolved "https://registry.yarnpkg.com/@faststore/ui/-/ui-2.2.13.tgz#da32502aa69400079365ecd4e668c262dc5ff0cc"
+  integrity sha512-kiBDLqxU/ONi4tOhv6mdo6tUZonn5Kj8BlUJ3p6mzw/p7vYGbUDum3AWOjVQFwfULthdlAfNj/zJRldM8Gg8Fw==
   dependencies:
-    "@faststore/components" "^2.2.0"
+    "@faststore/components" "^2.2.13"
     include-media "^1.4.10"
     modern-normalize "^1.1.0"
     react-swipeable "^7.0.0"
